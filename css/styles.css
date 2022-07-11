@@ -1,0 +1,170 @@
+/* Heading */
+.border{
+    background-color: black;
+    height: 0.6rem;
+}
+
+.head{
+    background-color: #FFFFFF;
+    display: flex;
+    font-weight: bold;
+    height: 4.4rem;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+ul{
+    margin: 0 auto;
+}
+
+.navigation{
+    font-size: small;
+    font-weight: bold;
+}
+
+
+/* Background image property */
+.img-property{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 5rem;
+}
+
+.haute{
+    color: #FFFFFF;
+    padding-top: 17rem;
+    text-align: center;
+}
+
+.desc{
+    font-size:xx-large;
+    font-weight:600;
+    text-shadow: 1px 1px #000000;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.btnp{
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    font-size: small;
+    font-weight: 500;
+    padding: 0.8rem 2rem 0.8rem 2rem;
+}
+
+.btnp:hover{
+    text-decoration: underline;
+}
+
+
+/* Sections background image */
+.section1{
+    background-image: url("/Chanel-LuxuryFashion/images/chanelfront.jpg");
+}
+
+.section2{
+    background-image: url("/Chanel-LuxuryFashion/images/finejewelry.jpg");
+}
+
+.section3{
+    background-image: url("/Chanel-LuxuryFashion/images/perfume.jpg");
+}
+
+.section4{
+    background-image: url("/Chanel-LuxuryFashion/images/chanelmain.jpg");
+}
+
+.section5{
+    background-image: url("/Chanel-LuxuryFashion/images/makeup.jpeg");
+}
+
+.section6{
+    background-image: url("/Chanel-LuxuryFashion/images/skincare.jpg");
+}
+
+.section7{
+    background-image: url("/Chanel-LuxuryFashion/images/watches.jpg");
+}
+
+.section8{
+    background-image: url("/Chanel-LuxuryFashion/images/eyewear.jpg");
+}
+
+.section9{
+    background-image: url("/Chanel-LuxuryFashion/images/highjewelry.jpg");
+}
+
+.section10{
+    background-image: url("/Chanel-LuxuryFashion/images/support.jpg");
+}
+
+.section11 p{
+    color: grey;
+}
+
+.section11{
+    padding: 5rem 6rem 5rem 6rem;
+}
+
+.card{
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.number{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.link-cust{
+    color: #000000;
+}
+
+.shift{
+    padding-left: 1rem;
+}
+
+
+/* Footer */
+.tit-ca{
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.foot{
+    padding:2rem 0rem 3rem 0rem;
+}
+
+.wrap{
+    padding: 0rem 5rem 0rem 5rem;
+}
+
+footer .card{
+    background-color: #000000;
+    border-color: #000000;
+}
+
+footer .card p{
+    color: gray;
+    font-size: 0.9em;
+    font-weight:400;
+}
+
+.iconslast, .foot{
+    display: flex;
+    justify-content: center;
+}
+
+.ig{
+    color: gray;
+    padding-left: 1rem;
+} 

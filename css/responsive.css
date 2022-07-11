@@ -1,0 +1,21 @@
+@media screen and (max-width:1000px) {
+    .section2 {
+        background-image: url("/Chanel-LuxuryFashion/images/finejewelryres.jpg");
+    }
+
+    .section3 {
+        background-image: url("/Chanel-LuxuryFashion/images/perfumeres.webp");
+    }
+
+    .section5 {
+        background-image: url("/Chanel-LuxuryFashion/images/makeupres.jpg");
+    }
+
+    .section8 {
+        background-image: url("/Chanel-LuxuryFashion/images/eyewearres.webp");
+    }
+
+    .section10 {
+        background-image: url("/Chanel-LuxuryFashion/images/balcksupport.webp");
+    }
+}
